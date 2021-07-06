@@ -96,3 +96,16 @@ a{
 .article:hover{
     color: aqua;
 }
+#contact{
+    background: #FF2424;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact1 h3{
+    display: inline;
+}
+.contact1 a{
+    color: white;
+    text-shadow: none;
+}
